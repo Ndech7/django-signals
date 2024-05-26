@@ -10,7 +10,8 @@ This projects constitutes a basic introduction to Django Signals. Django Signals
 
 ## About the Project
 
-This project involves setting up of profiles for users right after the register. The User Model is the Sender whereas the Profile Model will be the Receiver
+This project involves setting up of profiles for users right after the register. The User Model is the Sender whereas the Profile Model will be the Receiver.
+Inspired by https://medium.com/jungletronics/how-django-signals-work-81dc30d0dad5
 
 ## Requirements
 
